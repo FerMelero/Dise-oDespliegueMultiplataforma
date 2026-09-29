@@ -1,0 +1,21 @@
+body {
+  margin: 1em;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
+
+#supertitle {
+  color: darkred;
+}
+
+.regular {
+  text-align: justify;
+  color: #222;
+}
+header {
+  background-color: #333;
+}
